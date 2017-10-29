@@ -1,7 +1,7 @@
-#include "parser.h"
-#include <iostream>
+#include "parser.hpp"
+//#include <iostream>
 
-int parse(const char *filename) {
-	std::cout << "hi~\n";
-	return 0;
-}
+//int parse(const char *filename) {
+//	std::cout << "hi~\n";
+//	return 0;
+//}

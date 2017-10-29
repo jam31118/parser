@@ -22,9 +22,6 @@ int check_fgets(char *fgets_status, char *line, FILE *fp) {
 	return 0;
 }
 
-bool isComment(char *line) {
-		
-}
 
 int main() {
 	FILE *fp = fopen("input.config", "r");
